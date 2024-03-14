@@ -303,6 +303,10 @@ img {
     display: inline-flex;
     align-items: center;
 }
+button{
+    border: none;
+    font-family: poppins;
+}
 /*==================== ABOUT ====================*/
 .about__img{
     width: 400px;
